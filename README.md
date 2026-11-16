@@ -9,7 +9,8 @@ own.
 
 ## Before you start
 
-You need Python 3.12+ and the `qos` command from the QOS developer kit (no broker account needed):
+You need Python 3.12+ and the `qos` command from the QOS developer kit. The steps below do not need
+a broker account or a data catalog.
 
 ```bash
 git clone https://github.com/qos-one/qos-examples.git && cd qos-examples
@@ -39,8 +40,7 @@ for how to build one.
 For a machine-learning starting point, use the SDK template: `qos new my_model --ml` (needs the
 `ml` extra: install `qos-sdk[test,ml]` instead of `qos-sdk[test]`).
 
-These examples are for learning. They are not investment advice, and backtest results do not
-predict future returns.
+These examples are for learning. Results from generated bars or from a backtest are not a forecast and say nothing about real markets. Trading involves risk of loss. QOS is software, not investment advice.
 
 ## License
 
