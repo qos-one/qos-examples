@@ -49,7 +49,7 @@ These examples are for learning. Results from generated bars or from a backtest 
 
 ## Questions and feedback
 
-Stuck, or did it work for you? Open an [issue in qos-one/qos](https://github.com/qos-one/qos/issues/new)
+Stuck, or did it work for you? Open an [issue in qos-one/qos](https://github.com/qos-one/qos/issues/new?template=1_setup_report.yml)
 titled "Setup report" with your OS, Python version, the command you ran and its last lines of output.
 To add your own example, see [CONTRIBUTING.md](CONTRIBUTING.md).
 

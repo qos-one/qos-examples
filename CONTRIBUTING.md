@@ -5,7 +5,7 @@ starting point. Clear code and honest READMEs matter more here than clever strat
 
 ## Questions, setup reports and bugs
 
-- **Got stuck, or it worked?** Open an [issue in qos-one/qos](https://github.com/qos-one/qos/issues/new)
+- **Got stuck, or it worked?** Open an [issue in qos-one/qos](https://github.com/qos-one/qos/issues/new?template=1_setup_report.yml)
   titled "Setup report": your OS, Python version, the command you ran and its last lines of output.
   That is the most useful feedback we get.
 - **A bug in an example here:** open an issue in this repository with the command and the output.
