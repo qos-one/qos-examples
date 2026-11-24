@@ -14,7 +14,7 @@ a broker account or a data catalog.
 
 ```bash
 git clone https://github.com/qos-one/qos-examples.git && cd qos-examples
-pip install "qos-sdk[test] @ git+https://github.com/qos-one/qos.git@v0.1.6#subdirectory=qos_sdk"
+pip install "qos-sdk[test] @ git+https://github.com/qos-one/qos.git@v0.1.7#subdirectory=qos_sdk"
 ```
 
 ## Try an example
